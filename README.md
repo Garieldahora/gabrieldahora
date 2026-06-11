@@ -1,6 +1,6 @@
 # Olá, meu nome é Gabriel
 <p align="center">
-  <img src="https://i.pinimg.com/originals/97/bd/be/97bdbe8093d6b0005d5392cf9fa4a7c0.gif" width="300" alt="Gengar Codando">
+  <img src="https://i.pinimg.com/736x/99/de/09/99de09b4b742f078e2f0c10fe325dbb1.jpg" width="450" alt="Gengar Lofi Setup">
 </p>
 Atualmente sou estudante de Desenvolvimento de Sistemas e analise de sistemas
 
