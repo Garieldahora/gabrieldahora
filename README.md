@@ -1,7 +1,5 @@
-# Olá, meu nome é Gabriel
-<p align="center">
-  <img src="https://i.pinimg.com/736x/99/de/09/99de09b4b742f078e2f0c10fe325dbb1.jpg" width="450" alt="Gengar Lofi Setup">
-</p>
+<h1 align="center">Olá, eu sou o Gabriel! 👋</h1>
+
 Atualmente sou estudante de Desenvolvimento de Sistemas e analise de sistemas
 
 - 🛠️ Sou um dos colaboradores do **SeguraPet** (Aplicativo voltado para o mundo pet. Focado em serviços de cuidado, adoção, serviços de petshop e segurança).
