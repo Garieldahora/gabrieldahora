@@ -1,5 +1,5 @@
 # Olá, meu nome é Gabriel
-
+![Texto Alternativo](https://pin.it/3OBxHuSjm)
 Atualmente sou estudante de Desenvolvimento de Sistemas e analise de sistemas
 
 - 🛠️ Sou um dos colaboradores do **SeguraPet** (Aplicativo voltado para o mundo pet. Focado em serviços de cuidado, adoção, serviços de petshop e segurança).
