@@ -22,10 +22,6 @@ Atualmente sou estudante de Desenvolvimento de Sistemas e analise de sistemas
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=gotham&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=gotham" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=garieldahora&show_icons=true&theme=gotham&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldahora&layout=compact&theme=gotham" />
 </p>
-
-## 📫 Como me encontrar:
-- LinkedIn: [Seu Link Aqui]
-- Email: [Seu Email Aqui]
