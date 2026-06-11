@@ -10,7 +10,7 @@ Atualmente sou estudante de Desenvolvimento de Sistemas e analise de sistemas
 
 <p align="left">
 
-![Logo da linguagem](https://en.wikipedia.org/wiki/File:C_Logo.png)
+![Logo C](https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg)
 ![Logo da linguagem]()
 ![Logo da linguagem]()
 ![Logo da linguagem]()
