@@ -1,8 +1,8 @@
-# Olá, eu sou o Gabriel! 👋
+# Olá, meu nome é Gabriel
 
-Atualmente sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por transformar ideias em código. Focado em construir aplicações eficientes, limpas e escaláveis.
+Atualmente sou estudante de Desenvolvimento de Sistemas e analise de sistemas
 
-- 🛠️ Atualmente desenvolvendo o **SeguraPet** (descrição rápida do projeto, ex: uma plataforma para gestão e segurança de animais de estimação).
+- 🛠️ Sou um dos colaboradores do **SeguraPet** (Aplicativo voltado para o mundo pet. Focado em serviços de cuidado, adoção, serviços de petshop e segurança).
 - 🎓 Estudante no SENAI.
 - 💻 Focado em: [Insira suas principais tecnologias, ex: C# .NET, MVC, SQL, Python].
 
